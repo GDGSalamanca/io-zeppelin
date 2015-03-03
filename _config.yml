@@ -62,16 +62,16 @@ heroButtons:
 # About Block
 aboutTitle: "Android Day Salamanca 2015"
 aboutBlock:
- - {title: "¿Por qué?", image: "conference.jpg", text: "" }
- - {title: "¿Cómo?", image: "workshop.jpg", text: "Hemos organizado un evento con ponencias de gran calidad" }
+ - {title: "¿Por qué?", image: "conference.jpg", text: "Queríamos montar un buen evento técnico sobre Android en Salamanca " }
+ - {title: "¿Cómo?", image: "workshop.jpg", text: "Hemos traído a unos ponentes de lujo dispuestos a darlo todo" }
  - {title: "¿Dónde?", image: "hackathon.jpg", text: "En la Facultad de Ciencias de la Universidad de Salamanca" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "50", specialCharacter: "+", info: "asistentes", detail: "de cualquier lugar"}
- - {count: "5", specialCharacter: "+", info: "horas", detail: "hablando sobre Android"}
- - {count: "5", specialCharacter: "", info: "ponentes", detail: "tanto de Salamanca como de otras ciudades"}
+ - {count: "50", specialCharacter: "+", info: "asistentes", detail: ""}
+ - {count: "5", specialCharacter: "+", info: "horas", detail: ""}
+ - {count: "5", specialCharacter: "", info: "ponentes", detail: ""}
 # - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
 # Latest News Block
