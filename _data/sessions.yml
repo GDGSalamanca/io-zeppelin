@@ -50,8 +50,8 @@
   complexity: "Media"
 -
   id: 004
-  title: "My way to Clean Architecture"
-  description: ""
+  title: "My way to clean Android"
+  description: "El objetivo de la charla es aclarar conceptos con samples, tener una base de implementación clean y aclarar capa a capa como implementarla."
   subtype: presentation
   speakers: [5]
   language: es

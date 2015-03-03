@@ -1,4 +1,8 @@
 - 
   group: ""
   elements: 
-    - {name: "Universidad de Salamanca", description: "Universidad de Salamanca", link: "https://usal.es", imageUrl: "usal.png", width: "500px"}
+    - {name: "Universidad de Salamanca", description: "Universidad de Salamanca", link: "https://usal.es", imageUrl: "usal.png", width: "600px"}
+- 
+  group: ""
+  elements: 
+    - {name: "Selltag", description: "Selltag", link: "https://selltag.com/", imageUrl: "selltag.png", width: "500px"}

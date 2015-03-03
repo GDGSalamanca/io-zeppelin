@@ -48,11 +48,11 @@
     - {name: "site", link: "http://karumi.com"}
 -  
   id: 5
-  name: "Cristian"
+  name: "Christian"
   surname: "Panadero"
   company: "Selltag"
   title: "Android Developer"
-  bio: "Android developer, clean code lover. Working at @Selltag and @BakingCode"
+  bio: "Android developer en Selltag. Disfruta de la programación en general desde pequeño aunque últimamente está enfocado en plataformas móviles"
   thumbnailUrl: cristianpanaedera.jpg
   rockstar: true
   social: 
