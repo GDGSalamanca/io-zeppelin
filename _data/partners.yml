@@ -6,3 +6,4 @@
   group: ""
   elements: 
     - {name: "Selltag", description: "Selltag", link: "https://selltag.com/", imageUrl: "selltag.png", width: "500px"}
+    - {name: "Obture Code", description: "Obture Code", link: "https://obturecode.com/", imageUrl: "obture.png", width: "500px"}
