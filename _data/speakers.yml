@@ -59,3 +59,15 @@
     - {name: "twitter", link: "http://twitter.com/PaNaVTEC"}
     - {name: "github", link: "https://github.com/PaNaVTEC"}
     - {name: "site", link: "http://panavtec.me"}
+-  
+  id: 6
+  name: "Carlos (a.k.a. Husky)"
+  surname: "Álvarez Novoa"
+  company: "Obture Code"
+  title: "Director de Tecnología"
+  bio: "Siempre a la última, buscando nuevas tecnologías que nos permitan seguir siendo innovadores."
+  thumbnailUrl: husky.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "http://twitter.com/husky"}
+    - {name: "site", link: "http://obturecode.com"}
