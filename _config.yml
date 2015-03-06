@@ -69,9 +69,9 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "50", specialCharacter: "+", info: "asistentes", detail: ""}
+ - {count: "60", specialCharacter: "+", info: "asistentes", detail: ""}
  - {count: "5", specialCharacter: "+", info: "horas", detail: ""}
- - {count: "5", specialCharacter: "", info: "ponentes", detail: ""}
+ - {count: "5", specialCharacter: "", info: "ponencias", detail: ""}
 # - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
 # Latest News Block
@@ -79,7 +79,7 @@ statisticBlock:
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 6
+rockstarSpeakersCount: 7
 rockstarSpeakersTitle: "Ponentes"
 rockstarSpeakersButtonText: "Más información"
 
