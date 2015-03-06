@@ -71,3 +71,15 @@
   social: 
     - {name: "twitter", link: "http://twitter.com/husky"}
     - {name: "site", link: "http://obturecode.com"}
+-
+  id: 7
+  name: "Carlos"
+  surname: "Jiménez Pacho"
+  company: "Obture Code"
+  title: "Director General"
+  bio: "Cofundador de Obture CODE. Desarrollador iOS, Android y Windows Phone. Usabilidad y experiencia de usuario. Mu listo y mu guapo, dice mi madre."
+  thumbnailUrl: krego.png
+  rockstar: true
+  social:
+    - {name: "twitter", link: "http://twitter.com/krego"}
+    - {name: "site", link: "http://obturecode.com"}
