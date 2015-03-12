@@ -2,6 +2,7 @@
   group: ""
   elements: 
     - {name: "Universidad de Salamanca", description: "Universidad de Salamanca", link: "https://usal.es", imageUrl: "usal.png", width: "600px"}
+    - {name: "Dale Comunicación", description: "Dale Comunicación", link: "https://dalecomunicacion.com", imageUrl: "dalecomunicacion.png", width: "600px"}
 - 
   group: ""
   elements: 
