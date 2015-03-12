@@ -69,7 +69,7 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "100", specialCharacter: "+", info: "asistentes", detail: ""}
+ - {count: "140", specialCharacter: "+", info: "asistentes", detail: ""}
  - {count: "5", specialCharacter: "+", info: "horas", detail: ""}
  - {count: "5", specialCharacter: "", info: "ponencias", detail: ""}
 # - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
