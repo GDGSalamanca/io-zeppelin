@@ -3,3 +3,8 @@
   elements: 
     - {name: "Universidad de Salamanca", description: "Universidad de Salamanca", link: "https://usal.es", imageUrl: "usal.png", width: "600px"}
     - {name: "Dale Comunicación", description: "Dale Comunicación", link: "https://dalecomunicacion.com", imageUrl: "dalecomunicacion.png", width: "600px"}
+- 
+  group: ""
+  elements: 
+    - {name: "Selltag", description: "Selltag", link: "https://selltag.com/", imageUrl: "selltag.png", width: "500px"}
+    - {name: "Obture Code", description: "Obture Code", link: "https://obturecode.com/", imageUrl: "obture.png", width: "500px"}

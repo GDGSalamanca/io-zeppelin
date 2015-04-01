@@ -1,13 +1,66 @@
 -
-  id: 302
-  title: "Keynote"
-  description: "La Keynote es la charla principal de la Google I/O donde se presentaran las novedades y nuevas tecnologías"
-  subtype: presentation
-  language: en
-  complexity: "Media"
--
-  id: 301
-  title: "Beers time"
-  place: ""
+  id: 307
+  title: "Parada para el café"
+  place: "Hall de la Facultad"
   service: true
 -
+  id: 308
+  title: "Presentación del Android Day Salamanca 2015"
+  description: "Presentación del evento"
+  subtype: presentation
+  language: es
+  complexity: "Media"
+-
+  id: 309
+  title: "Apertura de puertas"
+  description: ""
+  subtype: presentation
+  language: es
+  complexity: "Media"
+-
+  id: 310
+  title: "¡Cañas time!"
+  description: ""
+  subtype: presentation
+  language: es
+  complexity: "Media"
+-
+  id: 001
+  title: "Mastering Google Play Store"
+  description: ""
+  subtype: presentation
+  speakers: [2]
+  language: es
+  complexity: "Media"
+-
+  id: 002
+  title: "Testing automatizado en Android"
+  description: ""
+  subtype: presentation
+  speakers: [3]
+  language: es
+  complexity: "Media"
+-
+  id: 003
+  title: "Material Design for Old Schoolers"
+  description: ""
+  subtype: presentation
+  speakers: [4]
+  language: es
+  complexity: "Media"
+-
+  id: 004
+  title: "My way to clean Android"
+  description: "El objetivo de la charla es aclarar conceptos con samples, tener una base de implementación clean y aclarar capa a capa como implementarla."
+  subtype: presentation
+  speakers: [5]
+  language: es
+  complexity: "Media"
+-
+  id: 005
+  title: "Websockets & Android Games"
+  description: ""
+  subtype: presentation
+  speakers: [1, 6, 7]
+  language: es
+  complexity: "Media"
