@@ -1,26 +1,13 @@
 -
-  id: 307
-  title: "Parada para el café"
-  place: "Hall de la Facultad"
+  id: 302
+  title: "Keynote"
+  description: "La Keynote es la charla principal de la Google I/O donde se presentaran las novedades y nuevas tecnologías"
+  subtype: presentation
+  language: en
+  complexity: "Media"
+-
+  id: 301
+  title: "Beers time"
+  place: ""
   service: true
 -
-  id: 308
-  title: "Presentación del Android Day Salamanca 2015"
-  description: "Presentación del evento"
-  subtype: presentation
-  language: es
-  complexity: "Media"
--
-  id: 309
-  title: "Apertura de puertas"
-  description: ""
-  subtype: presentation
-  language: es
-  complexity: "Media"
--
-  id: 310
-  title: "¡Cañas time!"
-  description: ""
-  subtype: presentation
-  language: es
-  complexity: "Media"

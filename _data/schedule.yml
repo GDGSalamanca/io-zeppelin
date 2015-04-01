@@ -1,21 +1,16 @@
 - 
   date: "2015-05-28"
-  dateReadable: "Jueves 28"
+  dateReadable: "Mayo 28"
   tracks: 
-    - {title: "Ponencias", color: "#03a9f4"}
+    - {title: "Ponencias", color: "#00bcd4"}
   timeslots:
     - {
-    	startTime: "09:30",
-    	endTime: "09:45",
-    	sessionIds: [309]
+    	startTime: "18:00",
+    	endTime: "21:00",
+    	sessionIds: [302]
     }
     - {
-    	startTime: "09:45",
-    	endTime: "10:00",
-    	sessionIds: [308]
-    }
-    - {
-    	startTime: "11:45",
-    	endTime: "12:10",
-    	sessionIds: [307]
+    	startTime: "21:00",
+    	endTime: "22:00",
+    	sessionIds: [301]
     }
