@@ -12,20 +12,6 @@
     - {name: "twitter", link: "https://twitter.com/GDGSalamanca"}
     - {name: "site", link: "http://gdgsalamanca.com/"}
 -
- id: 4
-  name: "Grupo de Investigaci&oacute;n GRIAL"
-  surname: "Universidad de Salamanca"
-  title: ""
-  thumbnailUrl: grial.png
-  team: true
-  ribbon:
-    - {abbr: "", title: "GRIAL"}
-  social:
-    - {name: "google-plus", link: "http://plus.google.com/+grialusal"}
-    - {name: "twitter", link: "http://twitter.com/grial_usal"}
-    - {name: "facebook", link: "http://facebook.com/grialusal"}
-    - {name: "site", link: "http://grial.usal.es"}
--
   id: 1
   name: "Tech&amp;Ladies"
   surname: ""
@@ -61,3 +47,17 @@
     - {name: "google-plus", link: "https://google.com/+Charrosfera"}
     - {name: "twitter", link: "https://twitter.com/charrosfera"}
     - {name: "site", link: "http://charrosfera.com/"}
+id: 4
+  name: "Grupo de Investigaci&oacute;n GRIAL"
+  surname: "Universidad de Salamanca"
+  title: ""
+  thumbnailUrl: grial.png
+  team: true
+  ribbon:
+    - {abbr: "", title: "GRIAL"}
+  social:
+    - {name: "google-plus", link: "http://plus.google.com/+grialusal"}
+    - {name: "twitter", link: "http://twitter.com/grial_usal"}
+    - {name: "facebook", link: "http://facebook.com/grialusal"}
+    - {name: "site", link: "http://grial.usal.es"}
+-
