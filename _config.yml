@@ -95,9 +95,9 @@ eventAddressCountry: "España"
 eventStartTime: "2015-05-28T18:00"
 eventDoorTime: "17:30"
 eventEndTime: "2015-05-28T21:00"
-eventPlaceCoordinates: "40.9915614, -5.6563128"
-mapCenterCoordinates: "40.9915614, -5.6563128"
-mapMobileCenterCoordinates: "40.9915614, -5.6563128"
+eventPlaceCoordinates: "40.9607793, -5.6700463"
+mapCenterCoordinates: "40.9634385, -5.6692121"
+mapMobileCenterCoordinates: "40.9634385, -5.6692121"
 
 # Venue Block
 #venueBlockTitle: "Venue"
