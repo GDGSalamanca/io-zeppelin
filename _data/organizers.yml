@@ -1,10 +1,7 @@
-- 
-  group: ""
-  elements: 
-    - {name: "Google Developer Group (GDG) Salamanca", description: "GDG Salamanca", link: "http://gdgsalamanca.com", imageUrl: "gdg-salamanca.png"}
-- 
+-
   group: ""
   elements:
+    - {name: "Google Developer Group (GDG) Salamanca", description: "GDG Salamanca", link: "http://gdgsalamanca.com", imageUrl: "gdg-salamanca.png"}
     - {name: "Grupo de Investigación GRIAL", description: "Grupo de Investigación GRIAL, Universidad de Salamanca", link: "http://grial.usal.es/", imageUrl: "grial.png"}
     - {name: "Tech&amp;Ladies", description: "Tech&amp;Ladies", link: "http://techandladies.com/", imageUrl: "techandladies.png"}
     - {name: "Betabeers Salamanca", description: "Betabeers Salamanca", link: "https://betabeers.com/community/betabeers-salamanca-22/", imageUrl: "betabeers-sal.png"}
