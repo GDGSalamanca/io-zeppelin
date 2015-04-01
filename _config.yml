@@ -62,9 +62,9 @@ heroButtons:
 # About Block
 aboutTitle: ""
 aboutBlock:
- - {title: "Google I/O", image: "conference.jpg", text: "Dos días de conferencias y talleres donde se presentan los últimos desarrollos de Google" }
- - {title: "¿Dónde?", image: "workshop.jpg", text: "28-29 Mayo 2015 en Moscone Center West, San Francisco, California" }
- - {title: "¿I/O Extended?", image: "hackathon.jpg", text: "I/O 2015 se retransmite en streaming a través de eventos organizados para ello en todo el mundo" }
+ - {title: "Google I/O", image: "", text: "Dos días de conferencias y talleres donde se presentan los últimos desarrollos de Google" }
+ - {title: "¿Dónde?", image: "", text: "28-29 Mayo 2015 en Moscone Center West, San Francisco, California" }
+ - {title: "¿I/O Extended?", image: "", text: "I/O 2015 se retransmite en streaming a través de eventos organizados para ello en todo el mundo" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
