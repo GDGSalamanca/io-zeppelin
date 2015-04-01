@@ -40,7 +40,7 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
 # - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule/", text: "Agenda"}
- - {permalink: "/speakers/", text: "Ponentes"}
+# - {permalink: "/speakers/", text: "Ponentes"}
  - {permalink: "/team/", text: "Organizadores"}
  - {permalink: "/logistics/", text: "Logística/¿Cómo llegar?"}
 # - {permalink: "/hackathon/", text: "Hackathon"}
@@ -60,18 +60,18 @@ heroButtons:
  - {permalink: "/#tickets", text: "Regístrate"}
 
 # About Block
-aboutTitle: "I/O Extended Salamanca 2015"
+aboutTitle: ""
 aboutBlock:
- - {title: "¿Por qué?", image: "conference.jpg", text: "Queríamos montar un buen evento técnico sobre Android en Salamanca " }
- - {title: "¿Cómo?", image: "workshop.jpg", text: "Hemos traído a unos ponentes de lujo dispuestos a darlo todo" }
- - {title: "¿Dónde?", image: "hackathon.jpg", text: "En la Facultad de Ciencias de la Universidad de Salamanca" }
+ - {title: "Google I/O", image: "conference.jpg", text: "Dos días de conferencias y talleres donde se presentan los últimos desarrollos de Google" }
+ - {title: "¿Dónde?", image: "workshop.jpg", text: "28-29 Mayo 2015 en Moscone Center West, San Francisco, California" }
+ - {title: "¿I/O Extended?", image: "hackathon.jpg", text: "I/O 2015 se retransmite en streaming a través de eventos organizados para ello en todo el mundo" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "160", specialCharacter: "+", info: "asistentes", detail: ""}
+ - {count: "10", specialCharacter: "+", info: "asistentes", detail: ""}
  - {count: "5", specialCharacter: "+", info: "horas", detail: ""}
- - {count: "5", specialCharacter: "", info: "ponencias", detail: ""}
+# - {count: "5", specialCharacter: "", info: "ponencias", detail: ""}
 # - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
 # Latest News Block
@@ -85,16 +85,16 @@ rockstarSpeakersButtonText: "Más información"
 
 # Location Block
 locationBlockTitle: "¿Dónde?"
-eventLocationName: "Salón de actos de la Facultad de Ciencias de la Universidad de Salamanca"
+eventLocationName: "Facultad de Ciencias de la Universidad de Salamanca"
 eventLocationLink: "http://fciencias.usal.es"
 eventStreetAddress: "Plaza de los Caídos s/n"
 eventAddressLocality: "Salamanca"
 eventAddressLocalityRegion: "Salamanca"
 eventPostalCode: "37008"
 eventAddressCountry: "España"
-eventStartTime: "2015-03-14T09:00"
-eventDoorTime: "09:30"
-eventEndTime: "2015-03-14T14:00"
+eventStartTime: "2015-05-28T18:00"
+eventDoorTime: "17:30"
+eventEndTime: "2015-05-28T21:00"
 eventPlaceCoordinates: "40.9634385, -5.6692121"
 mapCenterCoordinates: "40.9634385, -5.6692121"
 mapMobileCenterCoordinates: "40.9634385, -5.6692121"
@@ -111,7 +111,7 @@ mapMobileCenterCoordinates: "40.9634385, -5.6692121"
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "Coméntalo"
-twitterHashTag: "androidSAL15"
+twitterHashTag: "ioSalamanca15"
 #twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=900"
 
 # Partners Block
@@ -133,13 +133,13 @@ ticketsOffers:
   name: "Registro normal"
   price: "0"
   priceCurrency: "EUROS"
-  ticketsNumber: "150"
+  ticketsNumber: "50"
  # ribbon: "-5%"
-  buyButtonLink: "http://goo.gl/forms/B1wC18hpqb"
+  buyButtonLink: "http://goo.gl/forms/jzBUBRXHCY"
   buyButtonText: "Regístrate"
   ticketContentList: ["¡Ven al evento!"]
-  validFrom: "2015-03-01T00:00"
-  validThrough: "2015-03-14T23:59"
+  validFrom: "2015-04-01T18:00"
+  validThrough: "2015-05-28T21:00"
 # -
 #  name: "Last Chance"
 #  price: "450"
@@ -170,7 +170,7 @@ ticketsOffers:
 # Footer
 socialLinks:
  - {link: "https://plus.google.com/+GDGSalamanca", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGSalamanca", icon: "twitter"}
+ - {link: "https://twitter.com/GDGSalamanca", icon: "twitter"}
  - {link: "https://facebook.com/GDGSalamanca", icon: "facebook"}
 footerBlocks:
  -
@@ -196,7 +196,7 @@ footerBlocks:
 #discusShortName: "devfestua"
 
 # Speakers List Block
-showSessions: true
+showSessions: false
 
 # Team Block
 teamBlockTitle: "¿Quiénes somos?"
