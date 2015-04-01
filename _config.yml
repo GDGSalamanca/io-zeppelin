@@ -31,7 +31,7 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-#c4pUrl: "http://bit.ly/dfua-c4p"
+c4pUrl: "http://bit.ly/dfua-c4p"
 #c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 
@@ -52,7 +52,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "I/O Extended<typeout> 2015"
-eventDate: "28 Mayo 2015"
+eventDate: "28 Marzo 2015"
 typeoutTextValues: '"", " Salamanca"'
 typeoutFallback: "Salamanca"
 heroButtons:
