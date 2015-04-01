@@ -110,8 +110,8 @@ mapMobileCenterCoordinates: "40.9634385, -5.6692121"
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
-tweetsFeedTitle: "Coméntalo"
-twitterHashTag: "ioSalamanca15"
+tweetsFeedTitle: ""
+twitterHashTag: ""
 #twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=900"
 
 # Partners Block
