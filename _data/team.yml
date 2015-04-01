@@ -12,8 +12,8 @@
     - {name: "twitter", link: "https://twitter.com/GDGSalamanca"}
     - {name: "site", link: "http://gdgsalamanca.com/"}
 -
- id: 1
-  name: "Grupo de Investigación GRIAL"
+ id: 4
+  name: "Grupo de Investigaci&oacute;n GRIAL"
   surname: "Universidad de Salamanca"
   title: ""
   thumbnailUrl: grial.png
@@ -26,7 +26,7 @@
     - {name: "facebook", link: "http://facebook.com/grialusal"}
     - {name: "site", link: "http://grial.usal.es"}
 -
-  id: 2
+  id: 1
   name: "Tech&amp;Ladies"
   surname: ""
   title: ""
@@ -38,7 +38,7 @@
     - {name: "google-plus", link: "https://plus.google.com/102726532792244093365/about"}
     - {name: "site", link: "http://techandladies.com/"}
 -
-  id: 3
+  id: 2
   name: "Betabeers"
   surname: "Salamanca"
   title: ""
@@ -49,7 +49,7 @@
   social:
     - {name: "site", link: "http://betabeers.com/community/betabeers-salamanca-22/"}
 -
-  id: 4
+  id: 3
   name: "Charrosfera"
   surname: ""
   title: ""
