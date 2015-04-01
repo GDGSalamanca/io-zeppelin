@@ -111,7 +111,7 @@ mapMobileCenterCoordinates: "40.9634385, -5.6692121"
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: ""
-twitterHashTag: "#io15"
+twitterHashTag: "io15"
 #twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=900"
 
 # Partners Block
