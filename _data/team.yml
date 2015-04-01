@@ -47,3 +47,17 @@
     - {name: "google-plus", link: "https://google.com/+Charrosfera"}
     - {name: "twitter", link: "https://twitter.com/charrosfera"}
     - {name: "site", link: "http://charrosfera.com/"}
+-
+  id: 4
+  name: "GRIAL"
+  surname: ""
+  title: ""
+  thumbnail: grial.png
+  team: true
+  ribbon:
+    - {abbr: "", title: "GRIAL"}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/u/0/117603066659790246203/about"}
+    - {name: "facebook", link: "http://facebook.com/grialusal"}
+    - {name: "twitter", link: "http://twitter.com/grial_usal"}
+    - {name: "site", link: "http://grial.usal.es"}
