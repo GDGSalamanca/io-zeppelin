@@ -64,7 +64,7 @@ aboutTitle: ""
 aboutBlock:
  - {title: "Google I/O", image: "", text: "Tres días de conferencias y talleres donde se presentan los últimos desarrollos de Google" }
  - {title: "¿Dónde?", image: "", text: "18-20 Mayo 2016 en Shoreline Amphitheatre, Mountain View, California" }
- - {title: "¿I/O Extended?", image: "", text: "I/O 20156 se retransmite en streaming a través de eventos organizados para ello en todo el mundo" }
+ - {title: "¿I/O Extended?", image: "", text: "I/O 2016 se retransmite en streaming a través de eventos organizados para ello en todo el mundo" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -133,13 +133,13 @@ ticketsOffers:
   name: "Registro normal"
   price: "0"
   priceCurrency: "EUROS"
-  ticketsNumber: "50"
+  ticketsNumber: "20"
  # ribbon: "-5%"
   buyButtonLink: "https://betabeers.com/event/gdg-salamanca-betabeers-google-i-o-extended-2016-18-mayo-2016-4127/"
   buyButtonText: "Regístrate"
   ticketContentList: ["¡Ven al evento!"]
   validFrom: "2016-05-01T18:30"
-  validThrough: "2016-05-18T21:30"
+  validThrough: "2016-05-18T18:30"
 # -
 #  name: "Last Chance"
 #  price: "450"
@@ -210,8 +210,8 @@ findWayWalking: "Caminando"
 findWayBicycling: "En bici"
 findWayTransit: "En tren"
 findWayFindFlight: "Buscar vuelo"
-logisticsMapCenterCoordinates: "40.9915614, -5.6563128"
-logisticsMapMobileCenterCoordinates: "40.9915614, -5.6563128"
+logisticsMapCenterCoordinates: "40.9712483, -5.6645402"
+logisticsMapMobileCenterCoordinates: "40.9712483, -5.6645402"
 
 
 # Logistics Direction Details Block
