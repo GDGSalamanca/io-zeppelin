@@ -5,7 +5,7 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 
 
 # Site Settings
-title: "I/O Extended Salamanca 2015"
+title: "I/O Extended Salamanca 2016"
 email: "info@gdgsalamanca.com"
 description: "I/O Extended Salamanca"
 baseurl: "http://io.gdgsalamanca.com"
@@ -51,8 +51,8 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "I/O Extended<typeout> 2015"
-eventDate: "28 Mayo 2015"
+heroTitle: "I/O Extended<typeout> 2016"
+eventDate: "18 Mayo 2016"
 typeoutTextValues: '"", " Salamanca"'
 typeoutFallback: "Salamanca"
 heroButtons:
@@ -62,15 +62,15 @@ heroButtons:
 # About Block
 aboutTitle: ""
 aboutBlock:
- - {title: "Google I/O", image: "", text: "Dos días de conferencias y talleres donde se presentan los últimos desarrollos de Google" }
- - {title: "¿Dónde?", image: "", text: "28-29 Mayo 2015 en Moscone Center West, San Francisco, California" }
- - {title: "¿I/O Extended?", image: "", text: "I/O 2015 se retransmite en streaming a través de eventos organizados para ello en todo el mundo" }
+ - {title: "Google I/O", image: "", text: "Tres días de conferencias y talleres donde se presentan los últimos desarrollos de Google" }
+ - {title: "¿Dónde?", image: "", text: "18-20 Mayo 2016 en Shoreline Amphitheatre, Mountain View, California" }
+ - {title: "¿I/O Extended?", image: "", text: "I/O 20156 se retransmite en streaming a través de eventos organizados para ello en todo el mundo" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "15", specialCharacter: "+", info: "asistentes", detail: ""}
- - {count: "5", specialCharacter: "+", info: "horas", detail: ""}
+ - {count: "20", specialCharacter: "+", info: "asistentes", detail: ""}
+ - {count: "3", specialCharacter: "+", info: "horas", detail: ""}
 # - {count: "5", specialCharacter: "", info: "ponencias", detail: ""}
 # - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
@@ -85,19 +85,19 @@ rockstarSpeakersButtonText: "Más información"
 
 # Location Block
 locationBlockTitle: "¿Dónde?"
-eventLocationName: "Facultad de Ciencias de la Universidad de Salamanca"
-eventLocationLink: "http://fciencias.usal.es"
-eventStreetAddress: "Plaza de los Caídos s/n"
+eventLocationName: "Oficinas de Parkingdoor"
+eventLocationLink: "http://parkingdoor.com"
+eventStreetAddress: "Calle Rodríguez Fabrés, 21"
 eventAddressLocality: "Salamanca"
 eventAddressLocalityRegion: "Salamanca"
-eventPostalCode: "37008"
+eventPostalCode: "37005"
 eventAddressCountry: "España"
-eventStartTime: "2015-05-28T18:00"
-eventDoorTime: "17:30"
-eventEndTime: "2015-05-28T21:00"
-eventPlaceCoordinates: "40.9607793, -5.6700463"
-mapCenterCoordinates: "40.9607793, -5.6700463"
-mapMobileCenterCoordinates: "40.9607793, -5.6700463"
+eventStartTime: "2016-05-18T18:30"
+eventDoorTime: "18:30"
+eventEndTime: "2016-05-18T21:30"
+eventPlaceCoordinates: "40.9712483, -5.6645402"
+mapCenterCoordinates: "40.9712483, -5.6645402"
+mapMobileCenterCoordinates: "40.9712483, -5.6645402"
 
 # Venue Block
 #venueBlockTitle: "Venue"
@@ -111,7 +111,7 @@ mapMobileCenterCoordinates: "40.9607793, -5.6700463"
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: ""
-twitterHashTag: "io15"
+twitterHashTag: "io16"
 #twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=900"
 
 # Partners Block
@@ -135,11 +135,11 @@ ticketsOffers:
   priceCurrency: "EUROS"
   ticketsNumber: "50"
  # ribbon: "-5%"
-  buyButtonLink: "http://goo.gl/forms/jzBUBRXHCY"
+  buyButtonLink: "https://betabeers.com/event/gdg-salamanca-betabeers-google-i-o-extended-2016-18-mayo-2016-4127/"
   buyButtonText: "Regístrate"
   ticketContentList: ["¡Ven al evento!"]
-  validFrom: "2015-04-01T18:00"
-  validThrough: "2015-05-28T21:00"
+  validFrom: "2016-05-01T18:30"
+  validThrough: "2016-05-18T21:30"
 # -
 #  name: "Last Chance"
 #  price: "450"
